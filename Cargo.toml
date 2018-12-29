@@ -1,0 +1,7 @@
+[package]
+name = "rusty-radio-pi"
+version = "0.1.0"
+authors = ["John Behan <behanj@gmail.com>"]
+
+[dependencies]
+rppal = "0.9.0"
